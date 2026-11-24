@@ -23,7 +23,7 @@ location:   Mumbai, Maharashtra, India
 awards:
   - Smart India Hackathon 2025: National Winner (Parichay, Ministry of Jal Shakti)
   - Singapore–India Hackathon 2026: top 60 students from India, Grand Finale at SMU
-  - Hacktoberfest 2025: open-source contributor
+  - Hacktoberfest 2025: Supercontributor badge (Holopin)
 open_to:    ML / data / software internships
 ```
 
@@ -60,10 +60,10 @@ A government-office productivity platform with separate Employee and Manager das
 
 - 🏆 **Winner**, Smart India Hackathon 2025 (Government of India national hackathon)
 - 🌏 **Top 60 students across India**, Singapore–India Hackathon 2026, SMU Singapore
-- 🎃 **Hacktoberfest 2025**, open-source contributor
+- 🎃 **Hacktoberfest 2025: Supercontributor** badge ([verified on Holopin](https://www.holopin.io/hacktoberfest2025/userbadge/cmhn5lc850017kw043leum82z))
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-FF8F00?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhn5lc850017kw043leum82z"><img src="https://img.shields.io/badge/Hacktoberfest%202025-Supercontributor-FF8F00?style=for-the-badge&logo=hacktoberfest&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SIH-2025%20Winner-16A34A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Singapore%E2%80%93India%20Hackathon-Top%2060%20India-2563EB?style=for-the-badge"/>
 </p>
