@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Ankita Sagar 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:A7F3D0,100:93C5FD&section=header&animation=fadeIn" alt="header" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&width=900&height=70&color=16A34A&duration=3200&pause=900&lines=Hi%2C+I%27m+Ankita+Sagar+%F0%9F%91%8B;AI%2FML+%2B+Full-stack+builder;SIH+2025+Winner+%C2%B7+VJTI+Mumbai;Slowly+becoming." alt="Typing intro" />
+</h1>
 
 <p align="center">
   <b>AI/ML engineer and full-stack builder</b> · Smart India Hackathon 2025 Winner · Top 60 India, Singapore–India Hackathon 2026
@@ -45,16 +51,17 @@ A mobile health platform that connects patients, hospitals and city authorities,
 Paste a repo URL to get answers grounded in its code, auto-generated documentation, and a side-by-side comparison of repositories.
 **Skills used:** `RAG (retrieval-augmented generation)` · `embeddings & vector search (ChromaDB)` · `LLMs (Groq LLaMA)` · `prompt design` · `FastAPI` · `React + Vite + TypeScript` · `GitHub API`
 
-### 🏆  [Parichay: Smart India Hackathon 2025 Winner](https://github.com/sofiaabidi/Parichay-The-EOffice-Government-Productivity-Management-System-)
+### 🏆 Parichay: Smart India Hackathon 2025 winner ([code](https://github.com/sofiaabidi/Parichay-The-EOffice-Government-Productivity-Management-System-))
 A government-office productivity platform with separate Employee and Manager dashboards, built for the Ministry of Jal Shakti.
 **Skills used:** `React 18 + Tailwind + Radix UI` · `Recharts dashboards` · `Node.js / Express` · `PostgreSQL` · `JWT auth + bcrypt` · `Joi validation` · `role-based dashboards` · `PDF uploads` · `teamwork under hackathon deadlines`
 
 ## Tech stack
 
-**ML / AI:** Python · PyTorch · scikit-learn · XGBoost · SHAP · NLP · RAG · LLMs
-**Backend:** Node.js · FastAPI · PostgreSQL
-**Frontend:** React · TypeScript · Vite
-**Tools:** Git
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,nodejs,express,react,ts,vite,tailwind,postgres,git,github&perline=13" alt="Tech stack" />
+</p>
+
+**ML / AI:** PyTorch · scikit-learn · XGBoost · SHAP · NLP · RAG · LLMs · **Backend:** Node.js · FastAPI · PostgreSQL · **Frontend:** React · TypeScript · Vite
 
 ## Recognition
 
@@ -66,4 +73,18 @@ A government-office productivity platform with separate Employee and Manager das
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhn5lc850017kw043leum82z"><img src="https://img.shields.io/badge/Hacktoberfest%202025-Supercontributor-FF8F00?style=for-the-badge&logo=hacktoberfest&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SIH-2025%20Winner-16A34A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Singapore%E2%80%93India%20Hackathon-Top%2060%20India-2563EB?style=for-the-badge"/>
+</p>
+
+## 🐍 Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagarankita/Sagarankita/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagarankita/Sagarankita/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sagarankita/Sagarankita/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:93C5FD,100:A7F3D0&section=footer&animation=fadeIn" alt="footer" />
 </p>
