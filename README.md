@@ -45,7 +45,7 @@ A mobile health platform that connects patients, hospitals and city authorities,
 Paste a repo URL to get answers grounded in its code, auto-generated documentation, and a side-by-side comparison of repositories.
 **Skills used:** `RAG (retrieval-augmented generation)` · `embeddings & vector search (ChromaDB)` · `LLMs (Groq LLaMA)` · `prompt design` · `FastAPI` · `React + Vite + TypeScript` · `GitHub API`
 
-### 🏆  ([Parichay: Smart India Hackathon 2025 winner](https://github.com/sofiaabidi/Parichay-The-EOffice-Government-Productivity-Management-System-))
+### 🏆  [Parichay: Smart India Hackathon 2025 Winner](https://github.com/sofiaabidi/Parichay-The-EOffice-Government-Productivity-Management-System-)
 A government-office productivity platform with separate Employee and Manager dashboards, built for the Ministry of Jal Shakti.
 **Skills used:** `React 18 + Tailwind + Radix UI` · `Recharts dashboards` · `Node.js / Express` · `PostgreSQL` · `JWT auth + bcrypt` · `Joi validation` · `role-based dashboards` · `PDF uploads` · `teamwork under hackathon deadlines`
 
